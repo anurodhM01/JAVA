@@ -10,7 +10,7 @@ public class armstrong{
         checkArmstrong(number);
         
     }
-    // CREATING FUNCTION OF ARMSTRONG NUMBER
+    // CREATING FUNCTION OF ARMSTRONG NUMBERs
 
     static void checkArmstrong(int num){    //COUNTING NUMBER OF DIGITS IN A NUMBER
         int temp,rem, count=0,sum=0;
