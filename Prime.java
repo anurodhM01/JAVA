@@ -16,6 +16,6 @@ class Prime {
     else{
         System.out.println(num + " isn't Prime.");
     }
-        // break;
+        
     }
 }

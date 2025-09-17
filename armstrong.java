@@ -32,4 +32,3 @@ public class armstrong{
         else { System.out.println("Number isn't Armstrong."); }
     }
 }
-//fjksegr
