@@ -1,3 +1,4 @@
+// THIS IS JUST A SAMPLE CODE TO CHECK CONCEPT OF LINEAR SEARCH.
 import java.util.Scanner;           //
 public class LinearSearch {
     public static void main(String[] args){
