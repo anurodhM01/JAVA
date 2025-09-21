@@ -1,3 +1,5 @@
+// I AM WRITING THIS BASIC CODE TO SEE HOW IT WORKS
+// NOT REALLY A GOOD GOOD TO BE UNDERSTOOD BY EVERYONE
 import java.util.Scanner;
 
 public class Two_D {
